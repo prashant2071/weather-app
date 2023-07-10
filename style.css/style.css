@@ -77,6 +77,13 @@ body {
 
   }
   .img-class{
-    height:200px;
-    width:200px;
+    height:100px;
+    width:100px;
+  }
+  #result{
+    font-weight: bolder;
+  }
+  #emoji{
+    height: 100px;
+    width: 100px;
   }
